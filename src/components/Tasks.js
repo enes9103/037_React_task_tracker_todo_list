@@ -1,10 +1,10 @@
 import Duty from "./Duty";
 
-const Tasks = ({ tasks }) => {
+const Tasks = ({ tasks, deleteTask }) => {
   return (
     <div>
       {tasks.map((task) => (
-        <Duty duty={task} />
+        <Duty duty={task} deleteTask={deleteTask} />
       ))}
     </div>
   );
