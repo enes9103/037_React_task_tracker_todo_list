@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/037_React_task_tracker_todo_list/static/css/main.e8397d30.css",
+    "main.js": "/037_React_task_tracker_todo_list/static/js/main.b4c9e7d0.js",
+    "index.html": "/037_React_task_tracker_todo_list/index.html",
+    "main.e8397d30.css.map": "/037_React_task_tracker_todo_list/static/css/main.e8397d30.css.map",
+    "main.b4c9e7d0.js.map": "/037_React_task_tracker_todo_list/static/js/main.b4c9e7d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8397d30.css",
+    "static/js/main.b4c9e7d0.js"
+  ]
+}
