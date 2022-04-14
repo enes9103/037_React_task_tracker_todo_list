@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Expected Outcome
+
+![Project 002 Snapshot](react-task-tracker.gif)
+
 ## Available Scripts
 
 In the project directory, you can run:
